@@ -1,0 +1,12 @@
+﻿{
+    "$schema": "https://json.schemastore.org/launchsettings.json",
+    "profiles": {
+        "MaterializedPathTreeAPI": {
+            "commandName": "Project",
+            "applicationUrl": "http://localhost:5186",
+            "environmentVariables": {
+                "ASPNETCORE_ENVIRONMENT": "Development"
+            }
+        }
+    }
+}
